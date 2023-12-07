@@ -1,6 +1,6 @@
 # Applied Data Science Capstone✨
 ## 📑 Course Syllabus
-## [📅 Week-1](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/10:%20Appliead%20Data%20Science%20Capstone/Week_1_Introduction)
+## 📅 Week-1
 
 ###  Introduction to Capstone Project
 
@@ -10,8 +10,7 @@
 
 - DataWrangling
 
-## [📅 Week-2](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/10:%20Appliead%20Data%20Science%20Capstone/Week_2_Exploratory%20Data%20Analysis)
-
+## 📅 Week-2
 ### Exploratory Data Analysis
 
 - Exploratory Analysis Using SQL
@@ -19,15 +18,14 @@
 - Exploratory Analysis Using Pandas and Matplotlib
 
 
-## [📅 Week-3](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/10:%20Appliead%20Data%20Science%20Capstone/Week_3_Interactive%20Visual%20Analytics%20and%20Dashboards) 
+## 📅 Week-3
 
 ### Interactive Visual Analytics and Dashboard
 
 
 
  
-## [📅 Week-4](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/10:%20Appliead%20Data%20Science%20Capstone/Week_4_Predictive_Analysis)
-
+## 📅 Week-4
 ## Predictive Analysis (Classification)
 
 
